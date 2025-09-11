@@ -1,0 +1,60 @@
+<wpml-config>
+    <theme-configs>
+        <textdomains>
+            <textdomain>the9-pet-veterinary</textdomain>
+        </textdomains>
+        <custom-fields>
+            </custom-fields>
+        <admin-texts>
+            <key name="theme_mods_the9-pet-veterinary">
+                <key name="copyright_text" />
+                <key name="read_more_text" />
+                <key name="__fb_pro_link" />
+                <key name="__tw_pro_link" />
+                <key name="__you_pro_link" />
+                <key name="__primary_color" />
+                <key name="__secondary_color" />
+                <key name="blog_layout" />
+                <key name="single_post_layout" />
+            </key>
+            <key name="the9-pet-veterinary_custom_header_args">
+                <key name="default-image" />
+                <key name="description" />
+            </key>
+            <key name="strings">
+                <key name="Loading, please wait…"/>
+                <key name="Oops! That page can’t be found."/>
+                <key name="Search Results for: %s"/>
+            </key>
+        </admin-texts>
+        <post-types>
+            </post-types>
+        <taxonomies>
+            </taxonomies>
+        <widgets>
+            <widget id="the9_featured_posts_widget">
+                <widget-title>
+                    <field name="title" />
+                </widget-title>
+                <widget-fields>
+                    <field name="type" type="string" />
+                    <field name="posts_per_page" type="string" />
+                    <field name="post_type_label" type="string" />
+                    <field name="sticky_posts_label" type="string" />
+                    <field name="popular_posts_label" type="string" />
+                    <field name="number_of_posts_label" type="string" />
+                </widget-fields>
+            </widget>
+        </widgets>
+    </theme-configs>
+    <woocommerce>
+        <product-types>
+            <product-type name="simple" />
+            <product-type name="variable" />
+            <product-type name="grouped" />
+            <product-type name="external" />
+        </product-types>
+        <attributes>
+            </attributes>
+    </woocommerce>
+</wpml-config>
