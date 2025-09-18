@@ -16,11 +16,6 @@
   RewriteRule (.+)\.jpg$ /ekart/wp-content/uploads-webpc/uploads/$1.jpg.avif [NC,T=image/avif,L]
   RewriteCond %{HTTP_ACCEPT} image/avif
   RewriteCond %{REQUEST_FILENAME} -f
-  RewriteCond %{DOCUMENT_ROOT}/ekart/wp-content/uploads-webpc/uploads/$1.jpeg.avif -f [OR]
-  RewriteCond %{DOCUMENT_ROOT}/wp-content/uploads-webpc/uploads/$1.jpeg.avif -f
-  RewriteRule (.+)\.jpeg$ /ekart/wp-content/uploads-webpc/uploads/$1.jpeg.avif [NC,T=image/avif,L]
-  RewriteCond %{HTTP_ACCEPT} image/avif
-  RewriteCond %{REQUEST_FILENAME} -f
   RewriteCond %{DOCUMENT_ROOT}/ekart/wp-content/uploads-webpc/uploads/$1.png.avif -f [OR]
   RewriteCond %{DOCUMENT_ROOT}/wp-content/uploads-webpc/uploads/$1.png.avif -f
   RewriteRule (.+)\.png$ /ekart/wp-content/uploads-webpc/uploads/$1.png.avif [NC,T=image/avif,L]
@@ -29,6 +24,11 @@
   RewriteCond %{DOCUMENT_ROOT}/ekart/wp-content/uploads-webpc/uploads/$1.webp.avif -f [OR]
   RewriteCond %{DOCUMENT_ROOT}/wp-content/uploads-webpc/uploads/$1.webp.avif -f
   RewriteRule (.+)\.webp$ /ekart/wp-content/uploads-webpc/uploads/$1.webp.avif [NC,T=image/avif,L]
+  RewriteCond %{HTTP_ACCEPT} image/avif
+  RewriteCond %{REQUEST_FILENAME} -f
+  RewriteCond %{DOCUMENT_ROOT}/ekart/wp-content/uploads-webpc/uploads/$1.jpeg.avif -f [OR]
+  RewriteCond %{DOCUMENT_ROOT}/wp-content/uploads-webpc/uploads/$1.jpeg.avif -f
+  RewriteRule (.+)\.jpeg$ /ekart/wp-content/uploads-webpc/uploads/$1.jpeg.avif [NC,T=image/avif,L]
 
   RewriteCond %{HTTP_ACCEPT} image/webp
   RewriteCond %{REQUEST_FILENAME} -f
@@ -37,14 +37,14 @@
   RewriteRule (.+)\.jpg$ /ekart/wp-content/uploads-webpc/uploads/$1.jpg.webp [NC,T=image/webp,L]
   RewriteCond %{HTTP_ACCEPT} image/webp
   RewriteCond %{REQUEST_FILENAME} -f
-  RewriteCond %{DOCUMENT_ROOT}/ekart/wp-content/uploads-webpc/uploads/$1.jpeg.webp -f [OR]
-  RewriteCond %{DOCUMENT_ROOT}/wp-content/uploads-webpc/uploads/$1.jpeg.webp -f
-  RewriteRule (.+)\.jpeg$ /ekart/wp-content/uploads-webpc/uploads/$1.jpeg.webp [NC,T=image/webp,L]
-  RewriteCond %{HTTP_ACCEPT} image/webp
-  RewriteCond %{REQUEST_FILENAME} -f
   RewriteCond %{DOCUMENT_ROOT}/ekart/wp-content/uploads-webpc/uploads/$1.png.webp -f [OR]
   RewriteCond %{DOCUMENT_ROOT}/wp-content/uploads-webpc/uploads/$1.png.webp -f
   RewriteRule (.+)\.png$ /ekart/wp-content/uploads-webpc/uploads/$1.png.webp [NC,T=image/webp,L]
+  RewriteCond %{HTTP_ACCEPT} image/webp
+  RewriteCond %{REQUEST_FILENAME} -f
+  RewriteCond %{DOCUMENT_ROOT}/ekart/wp-content/uploads-webpc/uploads/$1.jpeg.webp -f [OR]
+  RewriteCond %{DOCUMENT_ROOT}/wp-content/uploads-webpc/uploads/$1.jpeg.webp -f
+  RewriteRule (.+)\.jpeg$ /ekart/wp-content/uploads-webpc/uploads/$1.jpeg.webp [NC,T=image/webp,L]
 </IfModule>
 # ! --- DO NOT EDIT NEXT LINE --- !
 # END Converter for Media
