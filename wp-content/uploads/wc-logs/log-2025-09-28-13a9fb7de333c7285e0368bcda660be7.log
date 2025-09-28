@@ -1,0 +1,4 @@
+2025-09-28T11:31:46+00:00 WARNING Các mẫu trống nhận được từ PTK Pattern Store
+2025-09-28T12:09:08+00:00 INFO Payment gateway enabled: "Thanh toán khi nhận hàng"
+2025-09-28T12:09:09+00:00 INFO Payment gateway enabled: "Chuyển khoản ngân hàng trực tiếp"
+2025-09-28T12:09:17+00:00 INFO Payment gateway enabled: "Kiểm tra thanh toán"
