@@ -11,3 +11,10 @@
 [2025-09-28 11:56:17 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
 [2025-09-28 12:02:27 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
 [2025-09-28 12:41:29 : INFO] - Cache for URL: http://localhost/ekart/san-pham/apple-iphone-16-pro/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-09 00:32:07 : INFO] - Cache for URL: http://localhost/ekart/san-pham/macbook-air-m4-13inch/?attribute_mau=B%E1%BA%A1c has been purged, triggered by action: woocommerce_variation_set_stock 
+[2025-10-09 00:32:07 : INFO] - Cache for URL: http://localhost/ekart/san-pham/macbook-air-m4-13inch/?attribute_mau=V%C3%A0ng+%C3%A1nh+sao has been purged, triggered by action: woocommerce_variation_set_stock 
+[2025-10-09 00:54:04 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-09 00:54:04 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-09 00:54:04 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-asus-gaming-vivobook-k3605vc-rp364w-i5-13420h-16gb-512gb-rtx-3050-4gb-wuxga-144hz-win11/ has been purged, triggered by action: save_post 
+[2025-10-09 00:54:04 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Asus Gaming Vivobook K3605VC &#8211; RP364W (i5 13420H, 16GB, 512GB, RTX 3050 4GB, WUXGA 144Hz, Win11)" has been purged, triggered by action: save_post 
+[2025-10-09 00:56:16 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
