@@ -658,3 +658,27 @@
 [2025-10-22 14:17:26 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop MSI Katana 15 B13VFK 676VN | CPU i7-13620H | RAM 16GB DDR5" has been purged, triggered by action: save_post 
 [2025-10-22 14:46:55 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
 [2025-10-22 14:47:40 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-22 15:13:38 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 15:15:58 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-asus-gaming-vivobook-k3605vc-rp364w-i5-13420h-16gb-512gb-rtx-3050-4gb-wuxga-144hz-win11/?attribute_cpu=Core+i5 has been purged, triggered by action: woocommerce_variation_set_stock 
+[2025-10-22 15:15:59 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-asus-gaming-vivobook-k3605vc-rp364w-i5-13420h-16gb-512gb-rtx-3050-4gb-wuxga-144hz-win11/?attribute_cpu=Core+i9 has been purged, triggered by action: woocommerce_variation_set_stock 
+[2025-10-22 15:15:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 15:16:37 : INFO] - Cache for URL: http://localhost/ekart/san-pham/dell-precision-5540-core-i9-ram-16gb-ssd-nvme-512gb-card-t2000-15-6inch-ips/?attribute_cpu=Core+i5 has been purged, triggered by action: woocommerce_variation_set_stock 
+[2025-10-22 15:16:37 : INFO] - Cache for URL: http://localhost/ekart/san-pham/dell-precision-5540-core-i9-ram-16gb-ssd-nvme-512gb-card-t2000-15-6inch-ips/?attribute_cpu=Core+i9 has been purged, triggered by action: woocommerce_variation_set_stock 
+[2025-10-22 15:16:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 15:16:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 15:16:56 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-asus-gaming-vivobook-k3605vc-rp364w-i5-13420h-16gb-512gb-rtx-3050-4gb-wuxga-144hz-win11/ has been purged, triggered by action: save_post 
+[2025-10-22 15:16:56 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Asus Gaming Vivobook K3605VC &#8211; RP364W (i5 13420H, 16GB, 512GB, RTX 3050 4GB, WUXGA 144Hz, Win11)" has been purged, triggered by action: save_post 
+[2025-10-22 15:17:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 15:17:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 15:17:19 : INFO] - Cache for URL: http://localhost/ekart/san-pham/dell-precision-5540-core-i9-ram-16gb-ssd-nvme-512gb-card-t2000-15-6inch-ips/ has been purged, triggered by action: save_post 
+[2025-10-22 15:17:19 : INFO] - Cache for archive page associated with post_type: product and Title: "Dell Precision 5540 Core i9 Ram 16gb, SSD NVME 512gb Card T2000 15.6inch IPS" has been purged, triggered by action: save_post 
+[2025-10-22 15:18:39 : INFO] - Cache for URL: http://localhost/ekart/san-pham/dell-precision-5540-core-i9-ram-16gb-ssd-nvme-512gb-card-t2000-15-6inch-ips/?attribute_cpu=Core+i5 has been purged, triggered by action: woocommerce_variation_set_stock 
+[2025-10-22 15:18:39 : INFO] - Cache for URL: http://localhost/ekart/san-pham/dell-precision-5540-core-i9-ram-16gb-ssd-nvme-512gb-card-t2000-15-6inch-ips/?attribute_cpu=Core+i9 has been purged, triggered by action: woocommerce_variation_set_stock 
+[2025-10-22 15:18:52 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 15:18:52 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 15:18:52 : INFO] - Cache for URL: http://localhost/ekart/san-pham/dell-precision-5540-core-i9-ram-16gb-ssd-nvme-512gb-card-t2000-15-6inch-ips/ has been purged, triggered by action: save_post 
+[2025-10-22 15:18:52 : INFO] - Cache for archive page associated with post_type: product and Title: "Dell Precision 5540 Core i9 Ram 16gb, SSD NVME 512gb Card T2000 15.6inch IPS" has been purged, triggered by action: save_post 
+[2025-10-22 15:19:20 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 15:19:20 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 15:19:20 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-asus-gaming-vivobook-k3605vc-rp364w-i5-13420h-16gb-512gb-rtx-3050-4gb-wuxga-144hz-win11/ has been purged, triggered by action: save_post 
+[2025-10-22 15:19:20 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Asus Gaming Vivobook K3605VC &#8211; RP364W (i5 13420H, 16GB, 512GB, RTX 3050 4GB, WUXGA 144Hz, Win11)" has been purged, triggered by action: save_post 
