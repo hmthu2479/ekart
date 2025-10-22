@@ -3,7 +3,7 @@ Contributors: WPFable
 Requires at least: 4.7
 Tested up to: 6.8
 Requires PHP: 5.6
-Stable tag: 0.2
+Stable tag: 1.0.5
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: one-column, two-columns ,right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
@@ -82,6 +82,45 @@ License: Creative Commons Zero, CC0 Public Domain
 
 
 == Changelog ==
+
+@version 1.0.5
+* Style improvements - Footer Product List
+
+@version 1.0.4
+* Style improvements - Footer Product List
+
+@version 1.0.3
+* Style improvements - Block Code Text Color
+
+@version 1.0.2
+* Tested - By WordPress 6.8.3
+
+@version 1.0.1
+* Issue Fixed Browse Category
+
+@version 1.0
+* Style improvements - Block Latest Comments
+
+@version 0.9
+* Style improvements - Block Table
+
+@version 0.8
+* Style improvements - Block Latest Comments
+
+@version 0.7
+* Style improvements - Block Video Caption
+
+@version 0.6
+* Style improvements - Block Image Caption
+
+@version 0.5
+* Style improvements - Block Latest Comments
+
+@version 0.4
+* Style improvements - Block Outline Button
+
+@version 0.3
+* Style improvements - Block page List
 
 @version 0.2
 * Theme & Author URI Added

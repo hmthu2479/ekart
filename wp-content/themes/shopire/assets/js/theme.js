@@ -25,7 +25,11 @@
         },
         scrollToSticky: function(b) {
             var a = $(".is--sticky");
-            this.window.scrollTop() >= 220 ? a.addClass("on") : a.removeClass("on")
+            if ($(".wf_slider--twelve").length) {
+                this.window.scrollTop() >= 920 ? a.addClass("on") : a.removeClass("on")
+            } else {
+                this.window.scrollTop() >= 220 ? a.addClass("on") : a.removeClass("on")
+            }
         },
         headerHeight: function(d) {
             var a = $(".wf_header-navwrapper"),

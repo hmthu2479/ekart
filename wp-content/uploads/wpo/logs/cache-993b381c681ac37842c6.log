@@ -18,3 +18,643 @@
 [2025-10-09 00:54:04 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-asus-gaming-vivobook-k3605vc-rp364w-i5-13420h-16gb-512gb-rtx-3050-4gb-wuxga-144hz-win11/ has been purged, triggered by action: save_post 
 [2025-10-09 00:54:04 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Asus Gaming Vivobook K3605VC &#8211; RP364W (i5 13420H, 16GB, 512GB, RTX 3050 4GB, WUXGA 144Hz, Win11)" has been purged, triggered by action: save_post 
 [2025-10-09 00:56:16 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-22 00:59:57 : INFO] - Cache for URL: http://localhost/ekart/san-pham/macbook-air-m4-13inch/?attribute_mau=B%E1%BA%A1c has been purged, triggered by action: woocommerce_variation_set_stock 
+[2025-10-22 00:59:57 : INFO] - Cache for URL: http://localhost/ekart/san-pham/macbook-air-m4-13inch/?attribute_mau=V%C3%A0ng+%C3%A1nh+sao has been purged, triggered by action: woocommerce_variation_set_stock 
+[2025-10-22 08:27:43 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-22 08:35:32 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-22 08:35:47 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-22 08:35:59 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-22 08:36:17 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-22 12:48:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:48:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:48:50 : INFO] - Cache for URL: http://localhost/ekart/san-pham/bo-chuyen-doi-usb-wifi-nano-tp-link-tl-wn725n-chuan-n-150mbps/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 12:48:50 : INFO] - Cache for URL: http://localhost/ekart/san-pham/bo-chuyen-doi-usb-wifi-nano-tp-link-tl-wn725n-chuan-n-150mbps/ has been purged, triggered by action: save_post 
+[2025-10-22 12:48:50 : INFO] - Cache for archive page associated with post_type: product and Title: "Bộ Chuyển Đổi USB Wifi Nano TP-Link TL-WN725N Chuẩn N 150Mbps" has been purged, triggered by action: save_post 
+[2025-10-22 12:50:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:50:09 : INFO] - Cache for URL: http://localhost/ekart/san-pham/tp-link-tl-wn821n-usb-wifi-chuan-n-toc-do-300mbps/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 12:50:09 : INFO] - Cache for URL: http://localhost/ekart/san-pham/tp-link-tl-wn821n-usb-wifi-chuan-n-toc-do-300mbps/ has been purged, triggered by action: save_post 
+[2025-10-22 12:50:09 : INFO] - Cache for archive page associated with post_type: product and Title: "TP-Link  TL-WN821N &#8211; USB Wifi Chuẩn N Tốc Độ 300Mbps" has been purged, triggered by action: save_post 
+[2025-10-22 12:50:29 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:50:29 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:50:29 : INFO] - Cache for URL: http://localhost/ekart/san-pham/tp-link-tl-wn821n-usb-wifi-chuan-n-toc-do-300mbps/ has been purged, triggered by action: save_post 
+[2025-10-22 12:50:29 : INFO] - Cache for archive page associated with post_type: product and Title: "TP-Link  TL-WN821N &#8211; USB Wifi Chuẩn N Tốc Độ 300Mbps" has been purged, triggered by action: save_post 
+[2025-10-22 12:51:28 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:51:28 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:51:28 : INFO] - Cache for URL: http://localhost/ekart/san-pham/bo-phat-wifi-4g-lte-tp-link-tl-mr6400-chuan-n-300mbps/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 12:51:28 : INFO] - Cache for URL: http://localhost/ekart/san-pham/bo-phat-wifi-4g-lte-tp-link-tl-mr6400-chuan-n-300mbps/ has been purged, triggered by action: save_post 
+[2025-10-22 12:51:28 : INFO] - Cache for archive page associated with post_type: product and Title: "Bộ Phát Wifi 4G LTE TP-Link TL-MR6400 Chuẩn N 300Mbps" has been purged, triggered by action: save_post 
+[2025-10-22 12:52:41 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:52:41 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:52:41 : INFO] - Cache for URL: http://localhost/ekart/san-pham/bo-phat-wifi-4g-lte-tp-link-tl-mr6400-chuan-n-300mbps/ has been purged, triggered by action: save_post 
+[2025-10-22 12:52:41 : INFO] - Cache for archive page associated with post_type: product and Title: "Bộ Phát Wifi 4G LTE TP-Link TL-MR6400 Chuẩn N 300Mbps" has been purged, triggered by action: save_post 
+[2025-10-22 12:53:46 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:53:46 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:53:46 : INFO] - Cache for URL: http://localhost/ekart/san-pham/bo-phat-wifi-di-dong-3g-4g-tp-link-m7000/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 12:53:46 : INFO] - Cache for URL: http://localhost/ekart/san-pham/bo-phat-wifi-di-dong-3g-4g-tp-link-m7000/ has been purged, triggered by action: save_post 
+[2025-10-22 12:53:46 : INFO] - Cache for archive page associated with post_type: product and Title: "Bộ Phát Wifi Di Động 3G/4G TP-Link M7000" has been purged, triggered by action: save_post 
+[2025-10-22 12:55:29 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:55:29 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:55:29 : INFO] - Cache for URL: http://localhost/ekart/san-pham/tenda-he-thong-wifi-nova-mesh-cho-gia-dinh-mw5c-chuan-ac-1200mbps-2-pack/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 12:55:29 : INFO] - Cache for URL: http://localhost/ekart/san-pham/tenda-he-thong-wifi-nova-mesh-cho-gia-dinh-mw5c-chuan-ac-1200mbps-2-pack/ has been purged, triggered by action: save_post 
+[2025-10-22 12:55:29 : INFO] - Cache for archive page associated with post_type: product and Title: "Tenda Hệ thống Wifi Nova Mesh cho gia đình MW5C Chuẩn AC 1200Mbps 2 pack" has been purged, triggered by action: save_post 
+[2025-10-22 12:57:04 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:57:04 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:57:04 : INFO] - Cache for URL: http://localhost/ekart/san-pham/o-dia-dvd-roi-cho-laptop-desktop-may-tinh-ban/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 12:57:04 : INFO] - Cache for URL: http://localhost/ekart/san-pham/o-dia-dvd-roi-cho-laptop-desktop-may-tinh-ban/ has been purged, triggered by action: save_post 
+[2025-10-22 12:57:04 : INFO] - Cache for archive page associated with post_type: product and Title: "Ổ đĩa dvd rời cho laptop, desktop, máy tính bàn" has been purged, triggered by action: save_post 
+[2025-10-22 12:58:06 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:58:06 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:58:07 : INFO] - Cache for URL: http://localhost/ekart/san-pham/o-dia-dvd-rw-cam-ngoai-cho-latop-destop-os-doi-moi-usb-3-0-va-cong-type-c/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 12:58:07 : INFO] - Cache for URL: http://localhost/ekart/san-pham/o-dia-dvd-rw-cam-ngoai-cho-latop-destop-os-doi-moi-usb-3-0-va-cong-type-c/ has been purged, triggered by action: save_post 
+[2025-10-22 12:58:07 : INFO] - Cache for archive page associated with post_type: product and Title: "Ổ ĐĨA DVD RW CẮM NGOÀI CHO LATOP DESTOP OS ĐỜI MỚI  usb 3.0 và cổng Type C" has been purged, triggered by action: save_post 
+[2025-10-22 12:59:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:59:12 : INFO] - Cache for URL: http://localhost/ekart/san-pham/quat-tan-nhiet-cpu-led-rainbow-11x-for-intell-loi-dong-nguyen-chat-cho-may-tinh/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 12:59:12 : INFO] - Cache for URL: http://localhost/ekart/san-pham/quat-tan-nhiet-cpu-led-rainbow-11x-for-intell-loi-dong-nguyen-chat-cho-may-tinh/ has been purged, triggered by action: save_post 
+[2025-10-22 12:59:12 : INFO] - Cache for archive page associated with post_type: product and Title: "Quạt tản nhiệt CPU Led rainbow 11X for Intell lõi đồng nguyên chất cho máy tính" has been purged, triggered by action: save_post 
+[2025-10-22 12:59:35 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:59:35 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 12:59:35 : INFO] - Cache for URL: http://localhost/ekart/san-pham/quat-tan-nhiet-cpu-led-rainbow-11x-for-intell-loi-dong-nguyen-chat-cho-may-tinh/ has been purged, triggered by action: save_post 
+[2025-10-22 12:59:35 : INFO] - Cache for archive page associated with post_type: product and Title: "Quạt tản nhiệt CPU Led rainbow 11X for Intell lõi đồng nguyên chất cho máy tính" has been purged, triggered by action: save_post 
+[2025-10-22 13:00:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:00:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:00:13 : INFO] - Cache for URL: http://localhost/ekart/san-pham/mieng-dan-phim-chu-ngon-ngu-tieng-anh-chuan-ngon-ngu-us/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:00:13 : INFO] - Cache for URL: http://localhost/ekart/san-pham/mieng-dan-phim-chu-ngon-ngu-tieng-anh-chuan-ngon-ngu-us/ has been purged, triggered by action: save_post 
+[2025-10-22 13:00:13 : INFO] - Cache for archive page associated with post_type: product and Title: "Miếng dán phím chữ ngôn ngữ Tiếng Anh, chuẩn ngôn ngữ US" has been purged, triggered by action: save_post 
+[2025-10-22 13:01:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:01:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:01:05 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ke-do-gia-do-de-tan-nhiet-cho-may-tinh-bang-hop-kim-nhom-gap-gon-xoay-360-do/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:01:05 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ke-do-gia-do-de-tan-nhiet-cho-may-tinh-bang-hop-kim-nhom-gap-gon-xoay-360-do/ has been purged, triggered by action: save_post 
+[2025-10-22 13:01:05 : INFO] - Cache for archive page associated with post_type: product and Title: "Kệ đỡ giá đỡ đế tản nhiệt cho máy tính bảng hợp kim nhôm gấp gọn xoay 360 độ" has been purged, triggered by action: save_post 
+[2025-10-22 13:02:07 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:02:07 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:02:08 : INFO] - Cache for URL: http://localhost/ekart/san-pham/gia-do-laptop-cho-macbook-cho-ipad-tan-nhiet-rhino-kl101-ke-do-may-tinh/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:02:08 : INFO] - Cache for URL: http://localhost/ekart/san-pham/gia-do-laptop-cho-macbook-cho-ipad-tan-nhiet-rhino-kl101-ke-do-may-tinh/ has been purged, triggered by action: save_post 
+[2025-10-22 13:02:08 : INFO] - Cache for archive page associated with post_type: product and Title: "Giá đỡ Laptop, cho macbook, cho ipad tản nhiệt Rhino KL101, kệ đỡ máy tính" has been purged, triggered by action: save_post 
+[2025-10-22 13:02:53 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:02:53 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:02:53 : INFO] - Cache for URL: http://localhost/ekart/san-pham/gia-do-laptop-2-tang-co-hoc-tu/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:02:53 : INFO] - Cache for URL: http://localhost/ekart/san-pham/gia-do-laptop-2-tang-co-hoc-tu/ has been purged, triggered by action: save_post 
+[2025-10-22 13:02:53 : INFO] - Cache for archive page associated with post_type: product and Title: "Giá đỡ laptop 2 tầng có hộc tủ" has been purged, triggered by action: save_post 
+[2025-10-22 13:04:07 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:04:07 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:04:07 : INFO] - Cache for URL: http://localhost/ekart/san-pham/de-tan-nhiet-cho-laptop-cooler-master-c3/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:04:07 : INFO] - Cache for URL: http://localhost/ekart/san-pham/de-tan-nhiet-cho-laptop-cooler-master-c3/ has been purged, triggered by action: save_post 
+[2025-10-22 13:04:07 : INFO] - Cache for archive page associated with post_type: product and Title: "Đế tản nhiệt cho Laptop Cooler Master C3" has been purged, triggered by action: save_post 
+[2025-10-22 13:04:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:04:44 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:04:44 : INFO] - Cache for URL: http://localhost/ekart/san-pham/gia-do-laptop-2-tang-co-hoc-tu/ has been purged, triggered by action: save_post 
+[2025-10-22 13:04:44 : INFO] - Cache for archive page associated with post_type: product and Title: "Giá đỡ laptop 2 tầng có hộc tủ" has been purged, triggered by action: save_post 
+[2025-10-22 13:05:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:05:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:05:01 : INFO] - Cache for URL: http://localhost/ekart/san-pham/gia-do-laptop-cho-macbook-cho-ipad-tan-nhiet-rhino-kl101-ke-do-may-tinh/ has been purged, triggered by action: save_post 
+[2025-10-22 13:05:01 : INFO] - Cache for archive page associated with post_type: product and Title: "Giá đỡ Laptop, cho macbook, cho ipad tản nhiệt Rhino KL101, kệ đỡ máy tính" has been purged, triggered by action: save_post 
+[2025-10-22 13:05:33 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:05:33 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:05:34 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ke-do-gia-do-de-tan-nhiet-cho-may-tinh-bang-hop-kim-nhom-gap-gon-xoay-360-do/ has been purged, triggered by action: save_post 
+[2025-10-22 13:05:34 : INFO] - Cache for archive page associated with post_type: product and Title: "Kệ đỡ giá đỡ đế tản nhiệt cho máy tính bảng hợp kim nhôm gấp gọn xoay 360 độ" has been purged, triggered by action: save_post 
+[2025-10-22 13:06:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:06:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:06:10 : INFO] - Cache for URL: http://localhost/ekart/san-pham/pin-laptop-dell-yrdd6-42wh/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:06:10 : INFO] - Cache for URL: http://localhost/ekart/san-pham/pin-laptop-dell-yrdd6-42wh/ has been purged, triggered by action: save_post 
+[2025-10-22 13:06:10 : INFO] - Cache for archive page associated with post_type: product and Title: "Pin laptop Dell YRDD6, 42Wh" has been purged, triggered by action: save_post 
+[2025-10-22 13:06:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:06:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:06:56 : INFO] - Cache for URL: http://localhost/ekart/san-pham/card-chuyen-doi-ide-to-sata-hai-chieu-hang-nhap-khau/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:06:56 : INFO] - Cache for URL: http://localhost/ekart/san-pham/card-chuyen-doi-ide-to-sata-hai-chieu-hang-nhap-khau/ has been purged, triggered by action: save_post 
+[2025-10-22 13:06:56 : INFO] - Cache for archive page associated with post_type: product and Title: "Card Chuyển Đổi IDE To Sata Hai Chiều &#8211; Hàng Nhập Khẩu" has been purged, triggered by action: save_post 
+[2025-10-22 13:07:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:07:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:07:48 : INFO] - Cache for URL: http://localhost/ekart/san-pham/case-magic-gm-01-co-san-4-fan-matx-hang-chinh-hang/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:07:48 : INFO] - Cache for URL: http://localhost/ekart/san-pham/case-magic-gm-01-co-san-4-fan-matx-hang-chinh-hang/ has been purged, triggered by action: save_post 
+[2025-10-22 13:07:48 : INFO] - Cache for archive page associated with post_type: product and Title: "CASE MAGIC GM-01 CÓ SẮN 4 FAN (MATX) &#8211; Hàng chính hãng" has been purged, triggered by action: save_post 
+[2025-10-22 13:08:16 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:08:16 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:08:16 : INFO] - Cache for URL: http://localhost/ekart/san-pham/bo-mach-chu-main-gigabyte-a520m-k-v2-socket-am4/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:08:16 : INFO] - Cache for URL: http://localhost/ekart/san-pham/bo-mach-chu-main-gigabyte-a520m-k-v2-socket-am4/ has been purged, triggered by action: save_post 
+[2025-10-22 13:08:16 : INFO] - Cache for archive page associated with post_type: product and Title: "Bo Mạch Chủ Main Gigabyte A520M K V2 Socket AM4" has been purged, triggered by action: save_post 
+[2025-10-22 13:08:53 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:08:53 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:08:53 : INFO] - Cache for URL: http://localhost/ekart/san-pham/pin-danh-cho-macbook-air-13-a1466-a1496-a1405-a1377-2013-2014-2015-2017/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:08:53 : INFO] - Cache for URL: http://localhost/ekart/san-pham/pin-danh-cho-macbook-air-13-a1466-a1496-a1405-a1377-2013-2014-2015-2017/ has been purged, triggered by action: save_post 
+[2025-10-22 13:08:53 : INFO] - Cache for archive page associated with post_type: product and Title: "Pin dành cho Macbook Air 13&#8221; A1466 A1496 A1405 A1377 2013 2014 2015 2017" has been purged, triggered by action: save_post 
+[2025-10-22 13:09:33 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:09:33 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:09:33 : INFO] - Cache for URL: http://localhost/ekart/san-pham/minhha-sac-danh-cho-laptop-asus-vivobook-s333-s433-s533/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:09:33 : INFO] - Cache for URL: http://localhost/ekart/san-pham/minhha-sac-danh-cho-laptop-asus-vivobook-s333-s433-s533/ has been purged, triggered by action: save_post 
+[2025-10-22 13:09:33 : INFO] - Cache for archive page associated with post_type: product and Title: "MINHHA Sạc dành cho Laptop Asus VivoBook S333 S433 S533" has been purged, triggered by action: save_post 
+[2025-10-22 13:09:58 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:09:58 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:09:58 : INFO] - Cache for URL: http://localhost/ekart/san-pham/giac-o-cam-chuyen-doi-dau-3-chan-sang-2-chan-nguon-220v-thong-thuong/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:09:58 : INFO] - Cache for URL: http://localhost/ekart/san-pham/giac-o-cam-chuyen-doi-dau-3-chan-sang-2-chan-nguon-220v-thong-thuong/ has been purged, triggered by action: save_post 
+[2025-10-22 13:09:58 : INFO] - Cache for archive page associated with post_type: product and Title: "Giắc ổ cắm chuyển đổi đầu 3 chân sang 2 chân nguồn 220V thông thường" has been purged, triggered by action: save_post 
+[2025-10-22 13:10:53 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:10:53 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:10:53 : INFO] - Cache for URL: http://localhost/ekart/san-pham/gigabyte-bo-mach-chu-main-gigabyte-z790-aorus-pro-x-socket-lga1700/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:10:53 : INFO] - Cache for URL: http://localhost/ekart/san-pham/gigabyte-bo-mach-chu-main-gigabyte-z790-aorus-pro-x-socket-lga1700/ has been purged, triggered by action: save_post 
+[2025-10-22 13:10:53 : INFO] - Cache for archive page associated with post_type: product and Title: "GIGABYTE Bo mạch chủ Main Gigabyte Z790 AORUS PRO X Socket LGA1700" has been purged, triggered by action: save_post 
+[2025-10-22 13:11:13 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:11:13 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:11:13 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ban-phim-dung-cho-laptop-dell-latitude-13-3379-7368/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:11:13 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ban-phim-dung-cho-laptop-dell-latitude-13-3379-7368/ has been purged, triggered by action: save_post 
+[2025-10-22 13:11:13 : INFO] - Cache for archive page associated with post_type: product and Title: "Bàn Phím dùng cho laptop Dell Latitude 13 3379 7368" has been purged, triggered by action: save_post 
+[2025-10-22 13:11:41 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:11:41 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:11:41 : INFO] - Cache for URL: http://localhost/ekart/san-pham/dau-cam-nguon-danh-cho-sac-macbook-macbook-air-macbook-pro/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:11:41 : INFO] - Cache for URL: http://localhost/ekart/san-pham/dau-cam-nguon-danh-cho-sac-macbook-macbook-air-macbook-pro/ has been purged, triggered by action: save_post 
+[2025-10-22 13:11:41 : INFO] - Cache for archive page associated with post_type: product and Title: "Đầu cắm nguồn dành cho sạc Macbook Macbook Air Macbook Pro" has been purged, triggered by action: save_post 
+[2025-10-22 13:12:42 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:12:42 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:12:42 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ram-pc-kingspec-8gb-ddr3-1600mhz/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:12:42 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ram-pc-kingspec-8gb-ddr3-1600mhz/ has been purged, triggered by action: save_post 
+[2025-10-22 13:12:42 : INFO] - Cache for archive page associated with post_type: product and Title: "Ram PC KingSpec 8GB DDR3 1600Mhz" has been purged, triggered by action: save_post 
+[2025-10-22 13:12:58 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:12:58 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:12:58 : INFO] - Cache for URL: http://localhost/ekart/san-pham/sac-danh-cho-laptop-chan-usb-ctype-c-20v-3-25a-65w/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:12:58 : INFO] - Cache for URL: http://localhost/ekart/san-pham/sac-danh-cho-laptop-chan-usb-ctype-c-20v-3-25a-65w/ has been purged, triggered by action: save_post 
+[2025-10-22 13:12:58 : INFO] - Cache for archive page associated with post_type: product and Title: "Sạc Dành Cho Laptop Chân USB-C(Type C) 20V-3.25A 65W" has been purged, triggered by action: save_post 
+[2025-10-22 13:15:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:15:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:15:17 : INFO] - Cache for URL: http://localhost/ekart/san-pham/headphone-tai-nghe-chup-tai-bluetooth-rockspace-o2/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:15:18 : INFO] - Cache for URL: http://localhost/ekart/san-pham/headphone-tai-nghe-chup-tai-bluetooth-rockspace-o2/ has been purged, triggered by action: save_post 
+[2025-10-22 13:15:18 : INFO] - Cache for archive page associated with post_type: product and Title: "Headphone Tai Nghe Chụp Tai bluetooth Rockspace O2" has been purged, triggered by action: save_post 
+[2025-10-22 13:15:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:15:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:15:56 : INFO] - Cache for URL: http://localhost/ekart/san-pham/tai-nghe-co-day-chan-type-c-cho-iphone-15-16-17-baseus-encok-c17-cao-cap/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:15:56 : INFO] - Cache for URL: http://localhost/ekart/san-pham/tai-nghe-co-day-chan-type-c-cho-iphone-15-16-17-baseus-encok-c17-cao-cap/ has been purged, triggered by action: save_post 
+[2025-10-22 13:15:56 : INFO] - Cache for archive page associated with post_type: product and Title: "Tai Nghe Có Dây Chân Type C Cho Iphone 15 16 17 Baseus Encok C17 Cao Cấp" has been purged, triggered by action: save_post 
+[2025-10-22 13:16:35 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:16:35 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:16:35 : INFO] - Cache for URL: http://localhost/ekart/san-pham/bo-sac-nhanh-cho-iphone-pd20w-hoco/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:16:35 : INFO] - Cache for URL: http://localhost/ekart/san-pham/bo-sac-nhanh-cho-iphone-pd20w-hoco/ has been purged, triggered by action: save_post 
+[2025-10-22 13:16:35 : INFO] - Cache for archive page associated with post_type: product and Title: "Bộ Sạc Nhanh Cho Iphone PD20W Hoco" has been purged, triggered by action: save_post 
+[2025-10-22 13:16:53 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:16:53 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:16:53 : INFO] - Cache for URL: http://localhost/ekart/san-pham/tai-nghe-bluetooth-cao-cap-eq2-5-3-pin-7h-am-thanh-song-dong-bass-cang/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:16:53 : INFO] - Cache for URL: http://localhost/ekart/san-pham/tai-nghe-bluetooth-cao-cap-eq2-5-3-pin-7h-am-thanh-song-dong-bass-cang/ has been purged, triggered by action: save_post 
+[2025-10-22 13:16:53 : INFO] - Cache for archive page associated with post_type: product and Title: "Tai Nghe Bluetooth Cao Cấp EQ2 5.3 Pin 7h Âm Thanh Sống Động Bass căng" has been purged, triggered by action: save_post 
+[2025-10-22 13:17:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:17:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:17:51 : INFO] - Cache for URL: http://localhost/ekart/san-pham/loa-bluetooth-jbl-go-4-hang-chinh-hang/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:17:51 : INFO] - Cache for URL: http://localhost/ekart/san-pham/loa-bluetooth-jbl-go-4-hang-chinh-hang/ has been purged, triggered by action: save_post 
+[2025-10-22 13:17:51 : INFO] - Cache for archive page associated with post_type: product and Title: "Loa Bluetooth JBL Go 4 &#8211; Hàng Chính Hãng" has been purged, triggered by action: save_post 
+[2025-10-22 13:18:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:18:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:18:22 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ban-phim-khong-day-hxsj-k610-vip-bluetooth-giam-on/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:18:22 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ban-phim-khong-day-hxsj-k610-vip-bluetooth-giam-on/ has been purged, triggered by action: save_post 
+[2025-10-22 13:18:22 : INFO] - Cache for archive page associated with post_type: product and Title: "Bàn phím không dây HXSJ K610 VIP Bluetooth giảm ồn" has been purged, triggered by action: save_post 
+[2025-10-22 13:18:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:18:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:18:50 : INFO] - Cache for URL: http://localhost/ekart/san-pham/cu-sac-choetech-pd5020-du-lich-da-nang-35w/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:18:50 : INFO] - Cache for URL: http://localhost/ekart/san-pham/cu-sac-choetech-pd5020-du-lich-da-nang-35w/ has been purged, triggered by action: save_post 
+[2025-10-22 13:18:50 : INFO] - Cache for archive page associated with post_type: product and Title: "Củ sạc Choetech PD5020 du lịch đa năng (35W)" has been purged, triggered by action: save_post 
+[2025-10-22 13:19:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:19:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:19:36 : INFO] - Cache for URL: http://localhost/ekart/san-pham/kinh-cuong-luc-kingkong-co-khung-tu-dan-ngan-bui-loa-danh-cho-iphone/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:19:36 : INFO] - Cache for URL: http://localhost/ekart/san-pham/kinh-cuong-luc-kingkong-co-khung-tu-dan-ngan-bui-loa-danh-cho-iphone/ has been purged, triggered by action: save_post 
+[2025-10-22 13:19:36 : INFO] - Cache for archive page associated with post_type: product and Title: "Kính Cường Lực KingKong Có Khung Tự Dán, Ngăn Bụi Loa Dành Cho iPhone" has been purged, triggered by action: save_post 
+[2025-10-22 13:20:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:20:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:20:01 : INFO] - Cache for URL: http://localhost/ekart/san-pham/case-bao-da-galaxy-tab-s6-lite-2022-2020-10-4-inch/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:20:01 : INFO] - Cache for URL: http://localhost/ekart/san-pham/case-bao-da-galaxy-tab-s6-lite-2022-2020-10-4-inch/ has been purged, triggered by action: save_post 
+[2025-10-22 13:20:01 : INFO] - Cache for archive page associated with post_type: product and Title: "Case bao da Galaxy Tab S6 Lite 2022 / 2020 10.4 inch" has been purged, triggered by action: save_post 
+[2025-10-22 13:20:55 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:20:55 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:20:55 : INFO] - Cache for URL: http://localhost/ekart/san-pham/cap-sac-anker-powerline-ii-usb-c-to-usb-c-phien-ban-marvel/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:20:55 : INFO] - Cache for URL: http://localhost/ekart/san-pham/cap-sac-anker-powerline-ii-usb-c-to-usb-c-phien-ban-marvel/ has been purged, triggered by action: save_post 
+[2025-10-22 13:20:55 : INFO] - Cache for archive page associated with post_type: product and Title: "Cáp Sạc ANKER Powerline+ II USB-C To USB-C Phiên Bản Marvel" has been purged, triggered by action: save_post 
+[2025-10-22 13:21:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:21:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:21:18 : INFO] - Cache for URL: http://localhost/ekart/san-pham/the-nho-micro-sdxc-sandisk-uhs-1-128gb-class-10-100mb-s/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:21:18 : INFO] - Cache for URL: http://localhost/ekart/san-pham/the-nho-micro-sdxc-sandisk-uhs-1-128gb-class-10-100mb-s/ has been purged, triggered by action: save_post 
+[2025-10-22 13:21:18 : INFO] - Cache for archive page associated with post_type: product and Title: "Thẻ Nhớ Micro SDXC SanDisk UHS-1 128GB Class 10 100MB/s" has been purged, triggered by action: save_post 
+[2025-10-22 13:21:47 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:21:47 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:21:47 : INFO] - Cache for URL: http://localhost/ekart/san-pham/chuot-khong-day-bluetooth-logitech-pop-mouse/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:21:48 : INFO] - Cache for URL: http://localhost/ekart/san-pham/chuot-khong-day-bluetooth-logitech-pop-mouse/ has been purged, triggered by action: save_post 
+[2025-10-22 13:21:48 : INFO] - Cache for archive page associated with post_type: product and Title: "Chuột không dây bluetooth Logitech POP MOUSE" has been purged, triggered by action: save_post 
+[2025-10-22 13:22:32 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:22:32 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:22:32 : INFO] - Cache for URL: http://localhost/ekart/san-pham/cap-sac-baseus-cafule-sac-nhanh-dung-cho-iphone/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:22:32 : INFO] - Cache for URL: http://localhost/ekart/san-pham/cap-sac-baseus-cafule-sac-nhanh-dung-cho-iphone/ has been purged, triggered by action: save_post 
+[2025-10-22 13:22:32 : INFO] - Cache for archive page associated with post_type: product and Title: "Cáp sạc Baseus Cafule sạc nhanh dùng cho iPhone" has been purged, triggered by action: save_post 
+[2025-10-22 13:23:13 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:23:13 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:23:13 : INFO] - Cache for URL: http://localhost/ekart/san-pham/sim-4g-vinaphone-500gb-thang/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:23:13 : INFO] - Cache for URL: http://localhost/ekart/san-pham/sim-4g-vinaphone-500gb-thang/ has been purged, triggered by action: save_post 
+[2025-10-22 13:23:13 : INFO] - Cache for archive page associated with post_type: product and Title: "SIM 4G VINAPHONE 500GB/THÁNG" has been purged, triggered by action: save_post 
+[2025-10-22 13:23:42 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:23:42 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:23:43 : INFO] - Cache for URL: http://localhost/ekart/san-pham/chuot-khong-day-bluetooth-chuot-may-tinh-hxsj-m107b-chong-on-dpi-1600/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:23:43 : INFO] - Cache for URL: http://localhost/ekart/san-pham/chuot-khong-day-bluetooth-chuot-may-tinh-hxsj-m107b-chong-on-dpi-1600/ has been purged, triggered by action: save_post 
+[2025-10-22 13:23:43 : INFO] - Cache for archive page associated with post_type: product and Title: "Chuột không dây Bluetooth, chuột máy tính HXSJ M107B chống ồn, DPI 1600" has been purged, triggered by action: save_post 
+[2025-10-22 13:24:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:24:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:24:12 : INFO] - Cache for URL: http://localhost/ekart/san-pham/sim-4g-mobifone-mdt250a-tron-goi-1-nam-khong-can-nap-tien/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:24:12 : INFO] - Cache for URL: http://localhost/ekart/san-pham/sim-4g-mobifone-mdt250a-tron-goi-1-nam-khong-can-nap-tien/ has been purged, triggered by action: save_post 
+[2025-10-22 13:24:12 : INFO] - Cache for archive page associated with post_type: product and Title: "SIM 4G Mobifone MDT250A Trọn Gói 1 Năm Không Cần Nạp Tiền" has been purged, triggered by action: save_post 
+[2025-10-22 13:25:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:25:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:25:01 : INFO] - Cache for URL: http://localhost/ekart/san-pham/cap-sac-nhanh-truyen-du-lieu-toc-do-cao-baseus/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:25:01 : INFO] - Cache for URL: http://localhost/ekart/san-pham/cap-sac-nhanh-truyen-du-lieu-toc-do-cao-baseus/ has been purged, triggered by action: save_post 
+[2025-10-22 13:25:01 : INFO] - Cache for archive page associated with post_type: product and Title: "Cáp sạc nhanh, truyền dữ liệu tốc độ cao Baseus" has been purged, triggered by action: save_post 
+[2025-10-22 13:25:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:25:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:25:22 : INFO] - Cache for URL: http://localhost/ekart/san-pham/cap-sac-nhanh-truyen-du-lieu-toc-do-cao-baseus/ has been purged, triggered by action: save_post 
+[2025-10-22 13:25:22 : INFO] - Cache for archive page associated with post_type: product and Title: "Cáp sạc nhanh, truyền dữ liệu tốc độ cao Baseus" has been purged, triggered by action: save_post 
+[2025-10-22 13:59:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:17 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=396 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:17 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=397 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:17 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=398 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:18 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=399 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:18 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=400 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:18 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=401 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:18 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=402 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:18 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=403 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:18 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=404 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:18 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=405 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:19 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=406 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:19 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=407 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:19 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=408 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:19 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=409 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:19 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=410 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:19 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=411 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:19 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=412 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:19 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=413 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:19 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=414 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:20 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:20 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=415 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:20 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:20 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=416 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:20 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:20 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=417 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:21 : INFO] - Cache for URL: http://localhost/ekart/san-pham/apple-iphone-15-2/ has been purged, triggered by action: save_post 
+[2025-10-22 13:59:21 : INFO] - Cache for archive page associated with post_type: product and Title: "Apple iPhone 15" has been purged, triggered by action: save_post 
+[2025-10-22 13:59:21 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:22 : INFO] - Cache for URL: http://localhost/ekart/san-pham/dien-thoai-samsung-galaxy-s25-da-kich-hoat-bao-hanh-dien-tu-hang-chinh-hang/ has been purged, triggered by action: save_post 
+[2025-10-22 13:59:22 : INFO] - Cache for archive page associated with post_type: product and Title: "Điện thoại Samsung Galaxy S25 &#8211; Đã kích hoạt bảo hành điện tử &#8211; Hàng Chính Hãng" has been purged, triggered by action: save_post 
+[2025-10-22 13:59:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:24 : INFO] - Cache for URL: http://localhost/ekart/san-pham/dien-thoai-xiaomi-12s-ultra-2/ has been purged, triggered by action: save_post 
+[2025-10-22 13:59:24 : INFO] - Cache for archive page associated with post_type: product and Title: "Điện thoại Xiaomi 12S Ultra" has been purged, triggered by action: save_post 
+[2025-10-22 13:59:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:25 : INFO] - Cache for URL: http://localhost/ekart/san-pham/galaxy-z-fold7-2/ has been purged, triggered by action: save_post 
+[2025-10-22 13:59:25 : INFO] - Cache for archive page associated with post_type: product and Title: "Galaxy Z Fold7" has been purged, triggered by action: save_post 
+[2025-10-22 13:59:26 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:26 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:27 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-macbook-pro-14-inch-m4-16gb-512gb-2/ has been purged, triggered by action: save_post 
+[2025-10-22 13:59:27 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop MacBook Pro 14 inch M4 16GB/512GB" has been purged, triggered by action: save_post 
+[2025-10-22 13:59:28 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:28 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:28 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:29 : INFO] - Cache for URL: http://localhost/ekart/san-pham/may-tinh-bang-ipad-a16-wifi-128gb-2/ has been purged, triggered by action: save_post 
+[2025-10-22 13:59:29 : INFO] - Cache for archive page associated with post_type: product and Title: "Máy tính bảng iPad A16 WiFi 128GB" has been purged, triggered by action: save_post 
+[2025-10-22 13:59:29 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:29 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:29 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:32 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:32 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:32 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:32 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:36 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=418 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:36 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=419 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:36 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=420 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:36 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=421 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:36 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=422 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:36 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=423 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 13:59:37 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 13:59:37 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:47 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:47 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=425 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:48 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=426 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:48 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=427 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:48 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=428 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:48 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=429 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:48 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=430 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:48 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=431 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:48 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=432 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:48 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=433 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:49 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=434 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:49 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=435 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:49 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=436 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:49 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=437 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:49 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=438 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:49 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=439 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:49 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=440 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:50 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=441 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:50 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=442 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:50 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=443 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:50 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=444 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:50 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=445 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:50 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=446 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:50 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=447 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:51 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=448 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:51 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=449 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:51 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=450 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:51 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=451 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:51 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=452 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:51 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=453 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:51 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:51 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=454 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:02:52 : INFO] - Cache for URL: http://localhost/ekart/san-pham/samsung-galaxy-a56-5g/ has been purged, triggered by action: save_post 
+[2025-10-22 14:02:52 : INFO] - Cache for archive page associated with post_type: product and Title: "Samsung Galaxy A56 5G" has been purged, triggered by action: save_post 
+[2025-10-22 14:02:53 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:54 : INFO] - Cache for URL: http://localhost/ekart/san-pham/xiaomi-redmi-note-14-5g/ has been purged, triggered by action: save_post 
+[2025-10-22 14:02:54 : INFO] - Cache for archive page associated with post_type: product and Title: "Xiaomi Redmi Note 14 5G" has been purged, triggered by action: save_post 
+[2025-10-22 14:02:54 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:55 : INFO] - Cache for URL: http://localhost/ekart/san-pham/apple-iphone-17-pro/ has been purged, triggered by action: save_post 
+[2025-10-22 14:02:55 : INFO] - Cache for archive page associated with post_type: product and Title: "Apple iPhone 17 Pro" has been purged, triggered by action: save_post 
+[2025-10-22 14:02:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:56 : INFO] - Cache for URL: http://localhost/ekart/san-pham/apple-iphone-17-air/ has been purged, triggered by action: save_post 
+[2025-10-22 14:02:56 : INFO] - Cache for archive page associated with post_type: product and Title: "Apple iPhone 17 Air" has been purged, triggered by action: save_post 
+[2025-10-22 14:02:57 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:58 : INFO] - Cache for URL: http://localhost/ekart/san-pham/samsung-galaxy-s25-ultra/ has been purged, triggered by action: save_post 
+[2025-10-22 14:02:58 : INFO] - Cache for archive page associated with post_type: product and Title: "Samsung Galaxy S25 Ultra" has been purged, triggered by action: save_post 
+[2025-10-22 14:02:58 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:02:59 : INFO] - Cache for URL: http://localhost/ekart/san-pham/xiaomi-15t-pro-5g/ has been purged, triggered by action: save_post 
+[2025-10-22 14:02:59 : INFO] - Cache for archive page associated with post_type: product and Title: "Xiaomi 15T Pro 5G" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:00 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:01 : INFO] - Cache for URL: http://localhost/ekart/san-pham/xiaomi-poco-x7-pro-5g/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:01 : INFO] - Cache for archive page associated with post_type: product and Title: "Xiaomi POCO X7 Pro 5G" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:02 : INFO] - Cache for URL: http://localhost/ekart/san-pham/xiaomi-redmi-14c/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:02 : INFO] - Cache for archive page associated with post_type: product and Title: "Xiaomi Redmi 14C" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:03 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:03 : INFO] - Cache for URL: http://localhost/ekart/san-pham/xiaomi-poco-c71/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:03 : INFO] - Cache for archive page associated with post_type: product and Title: "Xiaomi POCO C71" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:04 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:05 : INFO] - Cache for URL: http://localhost/ekart/san-pham/iphone-14-pro-max/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:05 : INFO] - Cache for archive page associated with post_type: product and Title: "iPhone 14 Pro Max" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:06 : INFO] - Cache for URL: http://localhost/ekart/san-pham/iphone-16-plus/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:06 : INFO] - Cache for archive page associated with post_type: product and Title: "iPhone 16 Plus" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:07 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:08 : INFO] - Cache for URL: http://localhost/ekart/san-pham/iphone-13/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:08 : INFO] - Cache for archive page associated with post_type: product and Title: "iPhone 13" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:10 : INFO] - Cache for URL: http://localhost/ekart/san-pham/samsung-galaxy-s24-fe-5g/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:10 : INFO] - Cache for archive page associated with post_type: product and Title: "Samsung Galaxy S24 FE 5G" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:10 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:11 : INFO] - Cache for URL: http://localhost/ekart/san-pham/samsung-galaxy-a17-5g/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:11 : INFO] - Cache for archive page associated with post_type: product and Title: "Samsung Galaxy A17 5G" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:22 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=455 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:22 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=456 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:22 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=457 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:22 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=458 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:22 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=459 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:22 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=460 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:22 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=461 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:23 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=462 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:23 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=463 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:23 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=464 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:23 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=465 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:23 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=466 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:23 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=467 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:23 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=468 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:24 : INFO] - Cache for URL: http://localhost/ekart/san-pham/samsung-galaxy-s25-fe/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:24 : INFO] - Cache for archive page associated with post_type: product and Title: "Samsung Galaxy S25 FE" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:24 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:25 : INFO] - Cache for URL: http://localhost/ekart/san-pham/apple-macbook-air-m2-2024/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:25 : INFO] - Cache for archive page associated with post_type: product and Title: "Apple MacBook Air M2 2024" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:26 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:26 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:26 : INFO] - Cache for URL: http://localhost/ekart/san-pham/mac-mini-m4-2024/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:26 : INFO] - Cache for archive page associated with post_type: product and Title: "Mac mini M4 2024" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:27 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:27 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:28 : INFO] - Cache for URL: http://localhost/ekart/san-pham/imac-m4-2024-24-inch-8cpu-8gpu-16gb-256gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:28 : INFO] - Cache for archive page associated with post_type: product and Title: "iMac M4 2024 24 inch 8CPU 8GPU 16GB 256GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:28 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:28 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:29 : INFO] - Cache for URL: http://localhost/ekart/san-pham/apple-macbook-air-m2-2024-8cpu-8gpu-8gb-256gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:29 : INFO] - Cache for archive page associated with post_type: product and Title: "Apple MacBook Air M2 2024 8CPU 8GPU 8GB 256GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:30 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:30 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:30 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-asus-tuf-gaming-f16-fx607vj-rl034w/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:30 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop ASUS TUF Gaming F16 FX607VJ-RL034W" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:31 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:31 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:32 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-asus-vivobook-go-14-e1404fa-nk177w/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:32 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop ASUS VivoBook Go 14 E1404FA-NK177W" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:33 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:33 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:33 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-asus-vivobook-15-oled-a1505va-ma505w/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:33 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop ASUS Vivobook 15 OLED A1505VA-MA505W" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:34 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:34 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:35 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-asus-zenbook-14-ux3405ca-pz188ws/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:35 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop ASUS Zenbook 14 UX3405CA-PZ188WS" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:36 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-asus-rog-strix-g16-g615jmr-s5155w/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:36 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop ASUS ROG Strix G16 G615JMR-S5155W" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:37 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:37 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:38 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-dell-inspiron-15-3520-i3520-7896blk-pus/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:38 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Dell Inspiron 15 3520 I3520-7896BLK-PUS" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:38 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:38 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:39 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-dell-vostro-3530-2h1tpi5/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:39 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Dell Vostro 3530 2H1TPI5" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:40 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:40 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:40 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-dell-15-dc15250-h02df/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:40 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Dell 15 DC15250 H02DF" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:41 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:41 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:42 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-dell-inspiron-15-3530-n3530/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:42 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Dell Inspiron 15 3530 N3530" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:47 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:47 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=469 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:47 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:47 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=470 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:47 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:47 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=471 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:47 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:47 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=472 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:47 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:47 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=473 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:48 : INFO] - Cache for URL: http://localhost/ekart/?post_type=product&p=474 has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:03:48 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-dell-latitude-3540-71038100/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:48 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Dell Latitude 3540 71038100" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:50 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-dell-xps-9320/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:50 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Dell XPS 9320" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:51 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-dell-15-dc15250-71073959/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:51 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Dell 15 DC15250 71073959" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:52 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:52 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:53 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ipad-air-11-inch-m3-wifi-128gb-2025/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:53 : INFO] - Cache for archive page associated with post_type: product and Title: "iPad Air 11 inch M3 Wifi 128GB 2025" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:53 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:53 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:54 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ipad-pro-m4-11-inch-wifi-256gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:54 : INFO] - Cache for archive page associated with post_type: product and Title: "iPad Pro M4 11 inch Wifi 256GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:55 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:55 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:55 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ipad-mini-7-2024-wifi-128gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:55 : INFO] - Cache for archive page associated with post_type: product and Title: "iPad mini 7 2024 Wifi 128GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:56 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:57 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ipad-gen-10-10-9-inch-2022-wifi-64gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:57 : INFO] - Cache for archive page associated with post_type: product and Title: "iPad Gen 10 10.9 inch 2022 Wifi 64GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:58 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:58 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:58 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ipad-pro-m4-13-inch-wifi-2tb-nano/ has been purged, triggered by action: save_post 
+[2025-10-22 14:03:58 : INFO] - Cache for archive page associated with post_type: product and Title: "iPad Pro M4 13 inch Wifi 2TB Nano" has been purged, triggered by action: save_post 
+[2025-10-22 14:03:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:03:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:00 : INFO] - Cache for URL: http://localhost/ekart/san-pham/ipad-pro-chip-m5-11-inch-5g-256gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:00 : INFO] - Cache for archive page associated with post_type: product and Title: "iPad Pro chip M5 11 inch 5G 256GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:01 : INFO] - Cache for URL: http://localhost/ekart/san-pham/samsung-galaxy-tab-s11-wifi-12gb-128gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:01 : INFO] - Cache for archive page associated with post_type: product and Title: "Samsung Galaxy Tab S11 Wifi 12GB 128GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:02 : INFO] - Cache for URL: http://localhost/ekart/san-pham/samsung-galaxy-tab-s10-fe-wifi-12gb-256gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:02 : INFO] - Cache for archive page associated with post_type: product and Title: "Samsung Galaxy Tab S10 FE Wifi 12GB 256GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:03 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:03 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:04 : INFO] - Cache for URL: http://localhost/ekart/san-pham/samsung-galaxy-tab-s10-fe-plus-wifi-12gb-256gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:04 : INFO] - Cache for archive page associated with post_type: product and Title: "Samsung Galaxy Tab S10 FE Plus Wifi 12GB 256GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:05 : INFO] - Cache for URL: http://localhost/ekart/san-pham/samsung-galaxy-tab-s11-ultra-5g-16gb-1tb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:05 : INFO] - Cache for archive page associated with post_type: product and Title: "Samsung Galaxy Tab S11 Ultra 5G 16GB 1TB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:06 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:06 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:07 : INFO] - Cache for URL: http://localhost/ekart/san-pham/samsung-galaxy-tab-s10-lite-wifi-6gb-128gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:07 : INFO] - Cache for archive page associated with post_type: product and Title: "Samsung Galaxy Tab S10 Lite Wifi 6GB 128GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:07 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:07 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:08 : INFO] - Cache for URL: http://localhost/ekart/san-pham/samsung-galaxy-tab-s9-wifi-12gb-256gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:08 : INFO] - Cache for archive page associated with post_type: product and Title: "Samsung Galaxy Tab S9 Wifi 12GB 256GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:17 : INFO] - Cache for URL: http://localhost/ekart/san-pham/xiaomi-redmi-pad-2-wifi-6gb-128gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:17 : INFO] - Cache for archive page associated with post_type: product and Title: "Xiaomi Redmi Pad 2 WiFi 6GB 128GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:18 : INFO] - Cache for URL: http://localhost/ekart/san-pham/xiaomi-pad-7-pro-8gb-256gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:18 : INFO] - Cache for archive page associated with post_type: product and Title: "Xiaomi Pad 7 Pro 8GB 256GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:20 : INFO] - Cache for URL: http://localhost/ekart/san-pham/xiaomi-pad-7-8gb-128gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:20 : INFO] - Cache for archive page associated with post_type: product and Title: "Xiaomi Pad 7 8GB 128GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:20 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:20 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:21 : INFO] - Cache for URL: http://localhost/ekart/san-pham/xiaomi-pad-mini-8gb-256gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:21 : INFO] - Cache for archive page associated with post_type: product and Title: "Xiaomi Pad Mini 8GB 256GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:23 : INFO] - Cache for URL: http://localhost/ekart/san-pham/xiaomi-redmi-pad-pro-wifi-8gb-128gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:23 : INFO] - Cache for archive page associated with post_type: product and Title: "Xiaomi Redmi Pad Pro wifi 8GB 128GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:24 : INFO] - Cache for URL: http://localhost/ekart/san-pham/xiaomi-redmi-pad-se-wifi-6gb-128gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:24 : INFO] - Cache for archive page associated with post_type: product and Title: "Xiaomi Redmi Pad SE Wifi (6GB 128GB)" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:25 : INFO] - Cache for URL: http://localhost/ekart/san-pham/xiaomi-pad-6-6gb-128gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:04:25 : INFO] - Cache for archive page associated with post_type: product and Title: "Xiaomi Pad 6 6GB 128GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:04:26 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:04:26 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:06:59 : INFO] - Cache for URL: http://localhost/ekart/san-pham/apple-macbook-air-m2-2024/ has been purged, triggered by action: wp_trash_post 
+[2025-10-22 14:07:24 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-macbook-pro-14-inch-m4-16gb-512gb-2/ has been purged, triggered by action: wp_trash_post 
+[2025-10-22 14:07:57 : INFO] - Cache for URL: http://localhost/ekart/san-pham/apple-macbook-air-m2-2024-8cpu-8gpu-8gb-256gb/ has been purged, triggered by action: wp_trash_post 
+[2025-10-22 14:09:49 : INFO] - Cache for URL: http://localhost/ekart/san-pham/may-tinh-bang-ipad-a16-wifi-128gb-2/ has been purged, triggered by action: wp_trash_post 
+[2025-10-22 14:09:51 : INFO] - Cache for URL: http://localhost/ekart/san-pham/apple-iphone-15-2/ has been purged, triggered by action: wp_trash_post 
+[2025-10-22 14:11:56 : INFO] - Cache for URL: http://localhost/ekart/san-pham/dien-thoai-xiaomi-12s-ultra-2/ has been purged, triggered by action: wp_trash_post 
+[2025-10-22 14:12:03 : INFO] - Cache for URL: http://localhost/ekart/san-pham/galaxy-z-fold7-2/ has been purged, triggered by action: wp_trash_post 
+[2025-10-22 14:13:26 : INFO] - Cache for URL: http://localhost/ekart/san-pham/dien-thoai-samsung-galaxy-s25-da-kich-hoat-bao-hanh-dien-tu-hang-chinh-hang/ has been purged, triggered by action: wp_trash_post 
+[2025-10-22 14:16:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:16:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:16:36 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-dell-mobile-precision-3561-core-i7-11850h-16gb-512gb/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:16:36 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-dell-mobile-precision-3561-core-i7-11850h-16gb-512gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:16:36 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Dell Mobile Precision 3561 (Core i7-11850H | 16GB | 512GB |" has been purged, triggered by action: save_post 
+[2025-10-22 14:16:57 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:16:57 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:16:57 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-dell-mobile-precision-3561-core-i7-11850h-16gb-512gb/ has been purged, triggered by action: save_post 
+[2025-10-22 14:16:57 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop Dell Mobile Precision 3561 (Core i7-11850H | 16GB | 512GB" has been purged, triggered by action: save_post 
+[2025-10-22 14:17:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:17:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-10-22 14:17:26 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-msi-katana-15-b13vfk-676vn-cpu-i7-13620h-ram-16gb-ddr5/ has been purged, triggered by action: woocommerce_product_set_stock 
+[2025-10-22 14:17:26 : INFO] - Cache for URL: http://localhost/ekart/san-pham/laptop-msi-katana-15-b13vfk-676vn-cpu-i7-13620h-ram-16gb-ddr5/ has been purged, triggered by action: save_post 
+[2025-10-22 14:17:26 : INFO] - Cache for archive page associated with post_type: product and Title: "Laptop MSI Katana 15 B13VFK 676VN | CPU i7-13620H | RAM 16GB DDR5" has been purged, triggered by action: save_post 
+[2025-10-22 14:46:55 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-22 14:47:40 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 

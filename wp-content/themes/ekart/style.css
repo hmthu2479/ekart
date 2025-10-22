@@ -2,7 +2,7 @@
 Theme Name: 	   eKart
 Text Domain: 	   ekart
 Template: 		   shopire
-Version:            0.2
+Version:            1.0.5
 Tested up to:       6.8
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -458,4 +458,48 @@ with others.
     font-size: 1.475rem;
     margin-top: 2px;
     line-height: 1.2;
+}
+
+.wp-block-page-list.has-background {
+    padding: 1rem;
+}
+
+.wp-block-button.is-style-outline a.wp-block-button__link {
+    color: var(--wf-main-color);
+}
+
+.wp-block-latest-comments {
+    padding-left: 0;
+}
+
+.wp-block-image figcaption {
+    text-align: center;
+}
+
+.wp-block-embed figcaption {
+    text-align: center;
+}
+
+.wp-block-latest-comments li a:not(:hover, :focus) {
+    color: var(--wf-secondary-color);
+}
+
+.wp-block-table figcaption {
+    text-align: center;
+}
+
+.wp-block-latest-comments li a {
+    text-decoration:none;
+}
+
+.wp-block-code.has-text-color code {
+    color: inherit;
+}
+
+.wf_footer ul.product_list_widget li .woocommerce-Price-amount {
+    color: var(--wf-main-color);
+}
+
+.wf_footer ul.product_list_widget li {
+    border-bottom: none;
 }

@@ -1,7 +1,7 @@
 /*
 Theme Name: 	   Shopire
 Text Domain: 	   shopire
-Version:            1.0.39
+Version:            1.0.48
 Tested up to:       6.8
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -153,4 +153,28 @@ a.wp-block-button__link:hover,
 a.wp-block-button__link:focus {
     color: #fff;
     text-decoration: none;
+}
+
+.wp-block-button.is-style-outline a.wp-block-button__link {
+    color: var(--wf-main-color);
+}
+
+.wp-block-latest-comments {
+    padding-left: 0;
+}
+
+.wp-block-latest-comments li a:not(:hover, :focus) {
+    color: var(--wf-secondary-color);
+}
+
+.wp-block-latest-comments li a {
+    text-decoration:none;
+}
+
+.wf_footer ul.product_list_widget li .woocommerce-Price-amount {
+    color: var(--wf-main-color);
+}
+
+.wf_footer ul.product_list_widget li {
+    border-bottom: none;
 }

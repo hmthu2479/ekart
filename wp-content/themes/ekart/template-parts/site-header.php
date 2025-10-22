@@ -46,7 +46,7 @@ $shopire_hs_hdr_bcat   = get_theme_mod( 'shopire_hs_hdr_bcat','1');
 									<?php do_action('shopire_header_bcat', false); ?>
 								</div>
 								<?php endif; ?>
-								<div class="wf-col-lg-<?php if(!class_exists( 'woocommerce' ) || $shopire_hs_hdr_bcat !=='1'): esc_attr_e('12','ekart'); else: esc_attr_e('9','ekart'); endif; ?> wf-col-12">
+								<div class="wf-col-lg-<?php if(class_exists( 'woocommerce' ) && $shopire_hs_hdr_bcat =='1'): esc_attr_e('9','ekart'); else: esc_attr_e('12','ekart'); endif; ?> wf-col-12">
 									<div class="wf_navbar-menu">
 										<nav class="wf_navbar-nav">
 											<?php do_action('shopire_site_header_navigation'); ?>

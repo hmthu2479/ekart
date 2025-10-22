@@ -6695,7 +6695,7 @@ body .widget_social ul {
 .wf_navbar-nav .wf_navbar-mainmenu .menu-item:hover>.dropdown-menu>li,
 .wf_navbar-nav .wf_navbar-mainmenu .menu-item.focus>.dropdown-menu>li {
     opacity: 1;
-    transform: translateY(0);
+    transform: none;
     transition-delay: 70ms;
 }
 

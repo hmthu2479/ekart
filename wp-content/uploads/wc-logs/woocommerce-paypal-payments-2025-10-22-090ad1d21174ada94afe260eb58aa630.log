@@ -1,0 +1,42 @@
+2025-10-22T01:22:53+00:00 DEBUG #1913 - [New Request] GET /ekart/
+2025-10-22T01:22:53+00:00 INFO #1913 - No customers for payment tokens migration.
+2025-10-22T01:22:56+00:00 DEBUG #1913 - Webhook lock acquired for 'register'.
+2025-10-22T01:22:56+00:00 DEBUG #1913 - Webhook operation 'register' started.
+2025-10-22T01:22:58+00:00 DEBUG #1913 - GET https://api.woocommerce.com/integrations/ppc/v1/notifications/webhooks
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: {"statusCode":404,"error":"Not Found","message":"Not Found"}
+
+2025-10-22T01:22:58+00:00 ERROR #1913 - Failed to delete webhooks: [Error] Not Found
+2025-10-22T01:22:58+00:00 INFO #1913 - Webhooks deleted.
+2025-10-22T01:22:58+00:00 DEBUG #1913 - POST https://api.woocommerce.com/integrations/ppc/v1/notifications/webhooks
+Request Body: {"url":"https:\/\/localhost\/ekart\/wp-json\/paypal\/v1\/incoming","event_types":[{"name":"CHECKOUT.ORDER.APPROVED"},{"name":"CHECKOUT.ORDER.COMPLETED"},{"name":"CHECKOUT.PAYMENT-APPROVAL.REVERSED"},{"name":"PAYMENT.CAPTURE.REFUNDED"},{"name":"PAYMENT.AUTHORIZATION.VOIDED"},{"name":"PAYMENT.CAPTURE.REVERSED"},{"name":"PAYMENT.ORDER.CANCELLED"},{"name":"PAYMENT.CAPTURE.DENIED"},{"name":"PAYMENT.CAPTURE.COMPLETED"},{"name":"VAULT.PAYMENT-TOKEN.CREATED"},{"name":"VAULT.PAYMENT-TOKEN.DELETED"},{"name":"PAYMENT.CAPTURE.PENDING"},{"name":"PAYMENT.SALE.COMPLETED"},{"name":"PAYMENT.SALE.REFUNDED"},{"name":"BILLING.SUBSCRIPTION.CANCELLED"},{"name":"BILLING.PLAN.PRICING-CHANGE.ACTIVATED"},{"name":"CATALOG.PRODUCT.UPDATED"},{"name":"BILLING.PLAN.UPDATED"}]}
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: {"statusCode":404,"error":"Not Found","message":"Not Found"}
+
+2025-10-22T01:22:58+00:00 ERROR #1913 - Failed to subscribe webhooks: [Error] Not Found
+2025-10-22T01:22:58+00:00 DEBUG #1913 - Webhook lock released for 'register'.
+2025-10-22T08:36:17+00:00 DEBUG #5726 - [New Request] GET /ekart/wp-admin/plugins.php
+2025-10-22T08:36:17+00:00 DEBUG #5726 - Webhook lock acquired for 'unregister'.
+2025-10-22T08:36:17+00:00 DEBUG #5726 - Webhook operation 'unregister' started.
+2025-10-22T08:36:18+00:00 DEBUG #5726 - GET https://api.woocommerce.com/integrations/ppc/v1/notifications/webhooks
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: {"statusCode":404,"error":"Not Found","message":"Not Found"}
+
+2025-10-22T08:36:18+00:00 ERROR #5726 - Failed to delete webhooks: [Error] Not Found
+2025-10-22T08:36:18+00:00 INFO #5726 - Webhooks deleted.
+2025-10-22T08:36:18+00:00 DEBUG #5726 - Webhook lock released for 'unregister'.

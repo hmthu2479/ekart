@@ -238,7 +238,7 @@
             $nav.addClass('closed').hide();
         } else {
             // For medium and large screens (>= 992px)
-            if ($(".wf_slider--one").length || $(".wf_slider--nine").length) {
+            if ($(".wf_slider--one").length || $(".wf_slider--nine").length || $(".wf_slider--twelve").length) {
                 $categories.addClass("active");
                 setTimeout(function () {
                     $nav.removeClass('closed').slideDown(700);
@@ -340,7 +340,7 @@
     // Toggle menu visibility and animation on button click
     $(document).on('click', '.product-categories .product-categories-btn', function (e) {
         // If .wf_slider--nine exists, do nothing and return immediately
-        if ($(".wf_slider--nine").length) {
+        if ($(".wf_slider--nine").length || $(".wf_slider--twelve").length) {
             return;
         }
         e.preventDefault();
